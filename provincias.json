@@ -1,0 +1,15 @@
+{
+    "__class__": "ManejadorPacientes",
+    "pacientes": [
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "nombre": "Sergio",
+                "apellido": "Santana",
+                "telefono": "2645856693",
+                "altura": "182",
+                "peso": "85"
+            }
+        }
+    ]
+}
